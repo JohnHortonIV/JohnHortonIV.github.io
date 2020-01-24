@@ -1,13 +1,14 @@
 {
   "basics": {
-    "name": "John Horton",
+    "name": "Molly Maluhia",
     "label": "Student",
     "picture": "https://techfolios.github.io/template/images/molly.png",
-    "email": "jhorton3@hawaii.edu",
-    "phone": "817-680-9680",
-    "website": "https://djrosaparks.github.io",
-    "summary": "I'm a computer science student studying at University of Hawaii for my BA in Computer Science, specializing in security.": {
-      "address": "2569 Dole Street",
+    "email": "molly@hawaii.edu",
+    "phone": "808-333-4444",
+    "website": "https://mmaluhia.github.io",
+    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
+    "location": {
+      "address": "",
       "postalCode": "96822",
       "city": "Honolulu",
       "countryCode": "USA",
@@ -16,13 +17,23 @@
     "profiles": [
       {
         "network": "github",
-        "username": "djrosaparks",
-        "url": "http://github.com/djrosaparks"
+        "username": "mmaluhia",
+        "url": "http://github.com/changeme"
       },
       {
         "network": "linkedin",
-        "username": "john-hortoniv",
-        "url": "http://linkedin.com/in/john-hortoniv"
+        "username": "mollymaluhia",
+        "url": "http://linkedin.com/in/changeme"
+      },
+      {
+        "network": "twitter",
+        "username": "mollymal",
+        "url": "http://twitter.com/changeme"
+      },
+      {
+        "network": "instagram",
+        "username": "molly",
+        "url": "http://instagram.com/changeme"
       }
     ]
   },
