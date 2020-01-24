@@ -3,10 +3,10 @@
     "name": "John Horton",
     "label": "Student",
     "picture": "https://techfolios.github.io/template/images/molly.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
+    "email": "jhorton3@hawaii.edu",
+    "phone": "817-680-9680",
+    "website": "https://djrosaparks.github.io",
+    "summary": "I am a student at University of hawaii at Manoa studying for my BA in computer Science specializing in security..",
     "location": {
       "address": "",
       "postalCode": "96822",
@@ -22,36 +22,35 @@
       },
       {
         "network": "linkedin",
-        "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
+        "username": "john-hortoniv",
+        "url": "https://linkedin.com/in/john-hortoniv/"
       },
       {
         "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
+        "username": "n/a",
+        "url": "n/a"
       },
       {
         "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
+        "username": "n/a",
+        "url": "n/a"
       }
     ]
   },
   "interests": [
     {
-      "name": "internet of things",
+      "name": "App creation",
       "keywords": [
-        "Arduino",
-        "TI MSP430"
+        "APIs"
       ]
     },
     {
-      "name": "data mining",
+      "name": "Security",
       "keywords": [
       ]
     },
     {
-      "name": "artificial intelligence",
+      "name": "Machine Learning",
       "keywords": [
       ]
     }
@@ -64,9 +63,7 @@
         "C",
         "C++",
         "Java",
-        "Javascript",
-        "Assembly",
-        "Common Lisp"
+        "Javascript"
       ]
     },
     {
