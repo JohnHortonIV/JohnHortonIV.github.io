@@ -17,8 +17,8 @@
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
-        "url": "http://github.com/changeme"
+        "username": "djrosaparks",
+        "url": "http://github.com/djrosaparks"
       },
       {
         "network": "linkedin",
@@ -66,18 +66,7 @@
         "Javascript"
       ]
     },
-    {
-      "name": "Toolsets/OS",
-      "level": "",
-      "keywords": [
-        "MacOS",
-        "Ubuntu",
-        "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
-      ]
-    }
-  ],
+      ],
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
