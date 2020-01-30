@@ -12,7 +12,5 @@ labels:
 summary: Installed my PC hardware and software.
 ---
 
-<div class="ui small rounded images">
-  <img class="ui image" src="../images/micromouse-robot.png">
-</div>
+
 
