@@ -16,7 +16,7 @@
     },
     "profiles": [
       {
-        "network": "linkdin",
+        "network": "linkedin",
         "username": "John Horton",
         "url": "https://www.linkedin.com/in/john-hortoniv/"
       },
