@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: Capture.PNG
+image: images/Capture.PNG
 title: Technical Support Fundamentals Certificate
 permalink: projects/certificate
 # All dates must be YYYY-MM-DD format!
