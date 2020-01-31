@@ -19,6 +19,11 @@
         "network": "linkdin",
         "username": "John Horton",
         "url": "https://www.linkedin.com/in/john-hortoniv/"
+      },
+      {
+        "network": "github",
+        "username": "JohnHortonIV",
+        "url": "https://github.com/JohnHortonIV"
       }
     ]
   },
