@@ -1,15 +1,16 @@
 ---
 layout: project
 type: project
-image: images/maxresdefault.jpg
-title: tba
-permalink: projects/tba
+image: Capture.PNG
+title: Technical Support Fundamentals Certificate
+permalink: projects/certificate
 # All dates must be YYYY-MM-DD format!
-date: 2015-01-01
+date: 2020-01-16
 labels:
-  - Software installation
-  - Hardware
-summary: Installed my PC hardware and software.
+  - Tech Support
+  - IT 
+  - Certificate
+summary: Completed Course 1 of Google's IT support Courses.
 ---
 
 
