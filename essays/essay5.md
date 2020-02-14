@@ -1,12 +1,12 @@
 ---
 layout: essay
 type: essay
-title: Asking the Right Questions
+title: Coding Standards: Not Just Aesthetics
 # All dates must be YYYY-MM-DD format!
-date: 2020-01-29
+date: 2020-02-11
 labels:
-  - Smart Questions
-  - StackOverflow
+  - Coding Standards
+  - ESLint
 ---
 <img class="ui large left floated image" src="../images/eslint.png">
 
