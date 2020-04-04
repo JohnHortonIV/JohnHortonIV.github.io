@@ -6,7 +6,7 @@ title: ICS 314's New Normal
 date: 2020-04-04
 labels:
   - Covid19
-  - Extar Credit
+  - Extra Credit
 ---
 
  <img class="ui large left floated image" src="../images/covid.png">
