@@ -1,4 +1,4 @@
-  <img class="ui large left floated image" src="../images/stackbad.PNG">
+  <img class="ui large left floated image" src="../images/covid.png">
 
   Since March, COVID-19 has changed my life quite a bit, in ways involving day to day life and college. My day to day routine is quite different now with all classes being online, most of my planning on when to do assignments and when to learn material is almost entirely up to me now. This is manageable for the most part, but not having a strict schedule means I really have to motivate myself to get things done when they should be and making up that time not being in class with being productive, whether that be extra studying or something else. 
 
