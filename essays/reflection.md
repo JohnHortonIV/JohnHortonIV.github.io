@@ -24,4 +24,3 @@ labels:
 ## The Future
 
   Overall, Software Engineering taught me many valuable lessons that I expect to use in the future. Programming work-outs showed us how to work under pressure. Our project taught us how group applications that we may have to do in our career will work.
- 
